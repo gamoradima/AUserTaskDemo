@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c7120cf7-d7e9-4cf3-91c8-830d04554814",
+    "Name": "UsrMyDemoUserTask",
+    "ModifiedOnUtc": "\/Date(1668073213000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Demo User Task",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,30 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "c7120cf7-d7e9-4cf3-91c8-830d04554814",
+      "A2": "UsrMyDemoUserTask",
+      "A5": "428771cd-5418-4d9e-8077-0e28e4ea1e48",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "69d64641-c547-2a1d-9273-f355a690db70",
+      "B8": "8.0.5.2406",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "039e6278-e6c1-9e67-2a24-5157124e3624",
+          "A2": "DemoMessage",
+          "A3": "c7120cf7-d7e9-4cf3-91c8-830d04554814",
+          "A4": "c7120cf7-d7e9-4cf3-91c8-830d04554814",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {}
+        }
+      ],
+      "FK11": "0463a4a7-f14f-4a3a-b5cb-1ac8fb11daf2",
+      "FK4": true,
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}

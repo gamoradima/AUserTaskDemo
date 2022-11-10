@@ -1,0 +1,9 @@
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\Bin\AUserTaskDemo.dll
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\Bin\AUserTaskDemo.pdb
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\obj\Release\AUserTaskDemo.csproj.AssemblyReference.cache
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\obj\Release\AUserTaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\obj\Release\AUserTaskDemo.AssemblyInfoInputs.cache
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\obj\Release\AUserTaskDemo.AssemblyInfo.cs
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\obj\Release\AUserTaskDemo.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\obj\Release\AUserTaskDemo.dll
+C:\Academy\Builds\D9_8.0.5.2406\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AUserTaskDemo\Files\obj\Release\AUserTaskDemo.pdb

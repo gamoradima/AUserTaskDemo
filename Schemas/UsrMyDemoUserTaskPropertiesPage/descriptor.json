@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0463a4a7-f14f-4a3a-b5cb-1ac8fb11daf2",
+    "Name": "UsrMyDemoUserTaskPropertiesPage",
+    "ModifiedOnUtc": "\/Date(1668079831000)\/",
+    "Parent": {
+      "UId": "9ba919f3-0101-4b63-93c5-1a453985b538",
+      "Name": "RootUserTaskPropertiesPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrMyDemoUserTaskPropertiesPage"
+  }
+}

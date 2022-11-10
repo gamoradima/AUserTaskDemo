@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.UserTask1.Caption" Value="Demo User Task 1" />
+			<Item Name="BaseElements.UserTask1.Parameters.DemoMessage.Caption" Value="Demo Message" />
+			<Item Name="BaseElements.UserTask1.Parameters.DemoMessage.DisplayValue" Value="MADE BY UserTask item, no page" />
+			<Item Name="BaseElements.UserTask1.Parameters.DemoMessage.Value" Value="MADE BY UserTask item, no page" />
+			<Item Name="BaseElements.UsrMyDemoUserTask1.Caption" Value="title" />
+			<Item Name="BaseElements.UsrMyDemoUserTask1.Parameters.DemoMessage.Caption" Value="Demo Message" />
+			<Item Name="BaseElements.UsrMyDemoUserTask1.Parameters.DemoMessage.DisplayValue" Value="MADE BY PANEL ITEM" />
+			<Item Name="BaseElements.UsrMyDemoUserTask1.Parameters.DemoMessage.Value" Value="MADE BY PANEL ITEM" />
+			<Item Name="Caption" Value="User task demo process 1" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

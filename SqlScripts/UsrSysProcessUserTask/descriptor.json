@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e45316ab-0a54-7b6d-a2ed-6353d14a0a43",
+    "Name": "UsrSysProcessUserTask",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1668091530000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
